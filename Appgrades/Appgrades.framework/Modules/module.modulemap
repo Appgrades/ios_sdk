@@ -1,0 +1,11 @@
+framework module Appgrades {
+  umbrella header "Appgrades.h"
+
+  export *
+  module * { export * }
+}
+
+module Appgrades.Swift {
+    header "Appgrades-Swift.h"
+    requires objc
+}

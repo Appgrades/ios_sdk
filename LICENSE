@@ -1,0 +1,196 @@
+Copyright 2018 Appgrades
+
+Please read these terms of service (THE "AGREEMENT") carefully before using the services offered by APPGRADES SAS ("APPGRADES").
+
+Your use of the services is expressly conditioned upon your assent to all of the terms and conditions of the current version of this agreement to the exclusion of all other terms.
+
+By clicking the "SUBMIT" (or similar) button, or by using the services in any manner (as applicable), you or the entity you represent ("CUSTOMER") agree that you have read and agree to be bound by and a party to the terms and conditions of this agreement to the exclusion of all other terms, and you represent and warrant that you are authorized to bind customer. Appgrades may update the agreement at any time without notice to you or to customer.
+
+The current version of the agreement can be reviewed by clicking the "terms of service" hypelink located at the navigation section of the dashboard at https://dash.appgrades.io
+
+[At Appgrades, we deeply believe in open and transparent relationship with all our stakeholders. As such, we are attempting in this doc to go beyond the standard “Legalese” by providing you between brackets ([…]) a digest of the main point(s) for each paragraph. While the legal value remains exclusively in the standard paragraphs, we hope this approach will make our contract more transparent to you!]
+
+1. Access to the Service.
+
+[You can access our cloud service and include our SDK in your own apps but both remain ours]
+
+Subject to Customer's compliance with the terms and conditions of this Agreement:
+
+Appgrades grants Customer the right to access and use the services specified in the account's Subscription offer or separate Order Form (collectively, the "Service," or "Services") during the Term (as defined below) for the internal business purposes of Customer, only as provided herein and only in accordance with Appgrades's applicable user documentation; and
+Appgrades grants Customer, during the Term, a non-exclusive, non-sublicensable, non-transferable license to (a) incorporate the Appgrades SDK(s) specified in the account's Subscription offer or separate Order Form (the "SDK"), in object code form only, into one or more Customer software applications that communicate with the Service (each a "Customer Application"), and (b) distribute the SDK in object code form only as part of a Customer Application.
+
+2. Modifications.
+
+[Tough, but it is up to you to check whether changes have been made to this agreement. We will do our best however to ping you in advance every time we make significant changes to this doc]
+
+Appgrades shall have the right (but not the obligation), at its sole discretion, to modify or replace this Agreement, or change, suspend, or discontinue the Services (including without limitation, the availability of any feature, database, or content) at any time by posting a notice on the Services or by sending you an e-mail.
+Appgrades may also impose limits on certain features and services or restrict your access to parts or all of the Services without notice or liability. It is your responsibility to check this Agreement periodically for changes. We will systematically display a date of last update in order to help you track any new iteration of this document.
+Your continued use of the Services following the posting of any changes to this Agreement constitutes acceptance of those changes.
+
+3. Security / Support / Service Levels.
+
+[Here is a description of our support and service levels]
+
+Appgrades will use its reasonable commercial efforts to maintain the security and integrity of the Service and will provide support to Customer.
+Appgrades provides the following type of support :
+
+A standard support which includes a 24-hour response time via email or the Web chat/contact feature, if such notice is provided during normal business hours (Monday-Friday, 9:00 a.m. – 5:00 p.m. CET),
+
+4. Changes to Services or SDK..
+
+[We may update our platform regularly (or not!)]
+
+If Appgrades provides Customer with any upgrades, patches, enhancements, or fixes for the Services or the SDK ("Updates"), then such Updates will become part of the Services or the SDK, respectively, and subject to this Agreement.
+Notwithstanding the foregoing, Appgrades shall have no obligation under this Agreement or otherwise to provide any such Updates or any other support for the Services or the SDK to Customer.
+Customer understands that Appgrades may cease supporting old versions or releases of the Services or the SDK at any time in its sole discretion; provided that Appgrades shall use commercially reasonable efforts to give Customer sixty (60) days prior notice thereof.
+
+5. Ownership / Feedback.
+
+[Our service and SDK are for you to use but anything we develop or build on top of it belongs to us]
+
+Appgrades retains all right, title, and interest in and to the Services and SDK, and all software, products, works, and other intellectual property and moral rights related thereto or created, used, or provided by Appgrades for the purposes of this Agreement, including any copies and derivative works of the foregoing.
+No rights or licenses are granted except as expressly and unambiguously set forth in this Agreement. Subject to the preceding sentence, Customer shall retain all right, title and interest in and to all Customers designs, discoveries, inventions, products, computer programs, procedures, developments, business plans, documents, and information related to the Customer Applications, as well as all Customer Data generated by Customer Applications, including all intellectual property rights therein.
+Customer may from time to time provide suggestions, comments or other feedback to Appgrades with respect to the SDK and/or the Service ("Feedback").
+Feedback, even if designated as confidential by Customer, shall not create any confidentiality obligation for Appgrades notwithstanding anything else. Customer shall, and hereby does, grant to Appgrades a nonexclusive, worldwide, perpetual, irrevocable, transferable, sublicensable, royalty-free, fully paid up license to use and exploit the Feedback for any purpose; provided that such license grant shall not be construed to relieve Appgrades of any confidentiality obligations it may have hereunder with respect to Customer Data.
+Nothing in this Agreement will impair Appgrades’s right to develop, acquire, license, market, promote or distribute products, software or technologies that perform the same or similar functions as, or otherwise compete with any products, software or technologies that Customer may develop, produce, market, or distribute.
+For the avoidance of doubt, enhancements to the Services or to SDK made during this Agreement, even if made in whole or in part as a consequence of Feedback provided by Customer, belong exclusively to Appgrades.
+
+6. Fees and Payment.
+
+[You pay on time, we deliver on time]
+
+Customer shall pay Appgrades fees for the Paid Service as set forth in the offers or in separate Order Forms when applicable.
+Unless otherwise specified in the account's Subscription offer or separate Order Form, all Fees shall be invoiced monthly at the end of each month if service is used without any commitment or in advance annually if .
+All invoices issued under this Agreement are payable in U.S. dollars or any specific currency listed on Appgrades’s invoice immidiately.
+Past due invoices are subject to interest on any outstanding balance of the lesser of 1.5% per month or the maximum amount permitted by law.
+Customer shall be responsible for all taxes associated with Service other than taxes based on Appgrades's net income.
+All Fees paid are non–refundable and are not subject to set–off.
+
+7. Restrictions.
+
+[Don’t do any nasty things with or to our service and SDK and we will both live happily ever after!]
+
+Except as expressly set forth in this Agreement, Customer shall not (and shall not permit any third party to), directly or indirectly:
+
+reverse engineer, decompile, disassemble, or otherwise attempt to discover the source code, object code, or underlying structure, ideas, or algorithms of the Service or SDK (except to the extent applicable laws specifically prohibit such restriction)
+modify, translate, or create derivative works based on the Service or SDK
+copy, rent, lease, distribute, pledge, assign, or otherwise transfer or encumber rights to the Service or SDK
+use the Service or SDK for the benefit of a third party
+remove or otherwise alter any proprietary notices or labels from the Service, SDK, or any portion thereof
+block, disable, hide or limit in any way the ability of any device (whether or not such device includes a Customer Application) to access the Service or any portion or functionality of or enabled by the Service
+modify or extend the SDK to any extent
+contaminate, incorporate, integrate, link or bundle any portion of the SDK with any software code governed by open source, community source, freeware, shareware, or other public license or distribution model software
+use the Service or SDK to build an application or product that is competitive with any Appgrades product or service.
+Customer is responsible for all of Customer's activity in connection with the Service, including but not limited to uploading Customer Data (as defined below) onto the Service. Customer shall use the Service in compliance with all applicable laws and regulations.
+
+Customer shall not (and shall not permit any third party to), directly or indirectly,
+
+take any action or
+upload, download, post, submit or otherwise distribute or facilitate distribution of any material on or through the Service, that:
+a. infringes any patent, trademark, trade secret, copyright, right of publicity or other right of any other person or entity
+b. is unlawful, threatening, abusive, harassing, defamatory, libelous, deceptive, fraudulent, invasive of another's privacy, tortious, obscene, offensive, or profane
+c. constitutes unauthorized or unsolicited advertising, junk or bulk e-mail ("spamming")
+d. contains software viruses or any other computer codes, files, or programs that are designed or intended to disrupt, damage, limit or interfere with the proper function of any software, hardware, or telecommunications equipment or to damage or obtain unauthorized access to any system, data, password or other information of Appgrades or any third party
+e. impersonates any person or entity, including any employee or representative of Appgrades.
+Additionally, Customer shall not:
+
+interfere or attempt to interfere with the proper working of the Service or any activities conducted on the Service
+bypass any measures Appgrades may use to prevent or restrict access to the Service (or other accounts, computer systems or networks connected to the Service).
+Customer agrees that monetary damages are insufficient to compensate Appgrades for any breach of Customer's obligations to Appgrades set forth in this Section and that Appgrades is entitled to and may seek injunctive or similar relief for any such breach.
+
+8. Promotion.
+
+[You as one of our users is a dream come true and we want to be able to share this]
+
+Customer agrees to allow Appgrades to:
+
+use Customer's name and logo as an Appgrades customer in Appgrades's marketing materials including its website without implying Customer's endorsement of Appgrades or the Service
+issue a press release within two (2) weeks of the Effective Date indicating that Customer has agreed to take a license to the Service, the contents of which will be pre-approved by Customer and which shall not be unreasonably withheld
+publish a case study that describes how the Service was used to solve Customer's business needs, subject to Customer's prior review and approval.
+Upon notice from you, we will correct any misuse of any Customer Marks.
+You may withdraw the foregoing license at any time upon written notice to us.
+
+9. Customer Data And Privacy.
+
+[your customer data is yours, period and we won’t do anything weird with it, just look at some aggregate big numbers]
+
+For purposes of this Agreement, "Customer Data" shall mean any applications, data, information or material provided, uploaded, or submitted by Customer to the Service in the course of using the Service, including any such applications, data, information or material maintained within Customer Applications or on servers supporting Customer Applications and any data within Customer's private storage area on the Service, if any.
+
+Appgrades is not responsible to Customer for unauthorized access to Customer Data or the unauthorized use of the Service unless such access is due to Appgrades's gross negligence or willful misconduct.
+
+Customer, not Appgrades, shall have sole responsibility for the accuracy, quality, integrity, legality, reliability, appropriateness, and intellectual property ownership or right to use of all Customer Data.
+
+Appgrades shall maintain compliance with industry standard security precautions with respect to Customer Data.
+
+Customer is responsible for the use of the Service by any person to whom Customer has given access to the Service, and any person who gains access to Customer Data, even if Customer did not authorize such use.
+
+Customer agrees and acknowledges that Customer Data may be irretrievably deleted if Customer's account is ninety (90) days or more delinquent.
+
+Customer hereby grants Appgrades a limited, non-exclusive, sublicensable, transferable, fully-paid, worldwide right and license to use Customer Data solely for purposes of improving, testing, operating, promoting and marketing the Service, and without any requirement of attribution to Customer.
+
+10. Term / Termination.
+
+[You or we can always terminate this agreement but we will always look for ways to make it work]
+
+Unless earlier terminated in accordance with this Section, the term of this Agreement (the "Term") shall be as set forth on the Order Form.
+
+In the event of a material breach of this Agreement by the either party, the non-breaching party may terminate this Agreement by providing written notice to the breaching party, provided that the breaching party does not materially cure such breach within thirty (30) days of receipt of such notice.
+
+Appgrades may suspend Customer's password, account or use of the Service if
+
+Customer's account is more than sixty (60) days past due, or
+Customer's material breach of this Agreement results in (or is reasonably likely to result in) damage to or material degradation of the Service which interferes with Appgrades's ability to provide access to the Service to other customers; provided that:
+Appgrades shall use reasonable good faith efforts to work with Customer to resolve or mitigate the consequences of such breach in order to resolve the issue without resorting to suspension
+prior to any such suspension, Appgrades shall use commercially reasonable efforts to provide notice to Customer describing the nature of the breach
+Appgrades shall reinstate Customer's password, account, or use of the Service, as applicable, if Customer cures such breach within thirty (30) days of receipt of such notice
+if Customer fails to cure such breach within such cure period, Appgrades may, in its sole discretion, terminate this Agreement.
+Either party may terminate this Agreement provided written notice is provided to the other party no less than seven (7) days prior to the end of any one-month term.
+
+All provisions of this Agreement which by their nature should survive termination shall survive termination, including, without limitation, accrued payment obligations, ownership provisions, warranty disclaimers, restrictions set forth in Section 7 hereof, indemnity and limitations of liability.
+
+11. Indemnification.
+
+[Of course if you do something wrong, you will be responsible]
+
+Customer shall defend, indemnify, and hold harmless Appgrades, its affiliates and each of its and its affiliates' employees, contractors, directors, suppliers and representatives from all liabilities, claims, and expenses (including reasonable attorneys' fees), that arise from or relate to
+
+Customer's use or misuse of, or access to, the Service or otherwise from Customer Data,
+Customer's violation of this Agreement,
+infringement by Customer, or any third party using Customer's account, of any intellectual property or other right of any person or entity, or a claim alleging that any Customer Data infringes the rights of, or has caused harm to, a third party
+Appgrades reserves the right to assume the exclusive defense and control of any matter otherwise subject to indemnification by Customer, in which event Customer shall assist and cooperate with Appgrades in asserting any available defenses.
+
+12. Disclaimer of Warranties.
+
+[What you see (of our platform) is what you get]
+
+EXCEPT AS EXPRESSLY SET FORTH HEREIN, THE SERVICE AND THE SDKS ARE PROVIDED "AS IS" AND "AS AVAILABLE" AND ARE WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, AND ANY WARRANTIES IMPLIED BY ANY COURSE OF PERFORMANCE, USAGE OF TRADE, OR COURSE OF DEALING, ALL OF WHICH ARE EXPRESSLY DISCLAIMED.
+
+13. Limitation of Liability.
+
+[Max we may owe you in any case is 6 months of paid fees]
+
+IN NO EVENT SHALL APPGRADES, NOR ITS DIRECTORS, EMPLOYEES, AGENTS, PARTNERS, SUPPLIERS OR CONTENT PROVIDERS, BE LIABLE UNDER CONTRACT, TORT, STRICT LIABILITY, NEGLIGENCE OR ANY OTHER LEGAL OR EQUITABLE THEORY WITH RESPECT TO THE SUBJECT MATTER OF THIS AGREEMENT (I) FOR ANY LOST PROFITS, DATA LOSS, COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR SPECIAL, INDIRECT, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES OF ANY KIND WHATSOEVER, SUBSTITUTE GOODS OR SERVICES (HOWEVER ARISING), (II) FOR ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE (REGARDLESS OF THE SOURCE OF ORIGINATION), OR (III) FOR ANY DIRECT DAMAGES IN EXCESS OF (IN THE AGGREGATE) THE FEES PAID BY CUSTOMER TO APPGRADES HEREUNDER IN THE SIX (6) MONTHS PRIOR TO THE EVENT GIVING RISE TO A CLAIM HEREUNDER. SOME STATES OR COUNTRIES MAY NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATIONS AND EXCLUSIONS MAY NOT APPLY TO CUSTOMER.
+
+14. Miscellaneous.
+
+[How this agreement may work out in different circumstances]
+
+This Agreement represents the entire agreement between Customer and Appgrades with respect to the subject matter hereof, and supersedes all prior or contemporaneous communications and proposals (whether oral, written or electronic) between Customer and Appgrades with respect thereto.
+
+The Agreement shall be governed by and construed in accordance with the laws of France and any dispute should be settled by the Tribunal of Nanterre, France.
+
+All notices under this Agreement shall be in writing and shall be deemed to have been duly given when received, if personally delivered or sent by certified or registered mail, return receipt requested; when receipt is electronically confirmed, if transmitted by facsimile or e-mail; or the day after it is sent, if sent for next day delivery by recognized overnight delivery service.
+
+Notices must be sent to the contacts for each party set forth on the Order Form.
+
+Either party may update its address set forth above by giving written notice to the other party.
+
+Except as otherwise provided herein, this Agreement may be amended only by a writing executed by both parties.
+
+Appgrades shall not be liable for any failure to perform its obligations hereunder where such failure results from any cause beyond Appgrades's reasonable control, including, without limitation, the elements; fire; flood; severe weather; earthquake; vandalism; accidents; sabotage; power failure; denial of service attacks or similar attacks; Internet failure; acts of God and the public enemy; acts of war; acts of terrorism; riots; civil or public disturbances; strikes lock-outs or labor disruptions; any laws, orders, rules, regulations, acts or restraints of any government or governmental body or authority, civil or military, including the orders and judgments of courts. This Agreement is not assignable, transferable or sublicensable by Customer except with Appgrades's prior written consent, and any action or conduct in violation of the foregoing shall be void and without effect. Appgrades may freely assign, transfer or delegate any of its rights and obligations hereunder. No agency, partnership, joint venture, or employment relationship is created as a result of this Agreement and neither party has any authority of any kind to bind the other in any respect.
+
+In any action or proceeding to enforce rights under this Agreement, the prevailing party shall be entitled to recover costs and attorneys' fees. If any provision of this Agreement is held to be unenforceable for any reason, such provision shall be reformed only to the extent necessary to make it enforceable.
+
+The failure of Appgrades to act with respect to a breach of this Agreement by Customer or others shall not constitute a waiver and shall not limit Appgrades's rights with respect to such breach or any subsequent breaches.
+
+Please send feedback to contact[@]appgrades.io
