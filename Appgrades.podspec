@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint Azetone.podspec' to ensure this is a
+# Be sure to run `pod lib lint Appgrades.podspec' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
     s.name             = "Appgrades"
-    s.version          = "1.0.0"
-    s.summary          = "Easily Track & Manaage your apps versions"
+    s.version          = "1.1.0"
+    s.summary          = "Easily Track & Manage your apps versions"
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -36,7 +36,7 @@ DESC
     s.ios.deployment_target = '9.0'
 
 
-    s.source              = { :git => "https://github.com/appgrades/ios_sdk.git", :tag => "1.0.0" }
+    s.source              = { :git => "https://github.com/appgrades/ios_sdk.git", :tag => "1.1.0" }
     s.vendored_frameworks = 'Appgrades/Appgrades.framework'
 
 end
