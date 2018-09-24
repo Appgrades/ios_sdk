@@ -2,7 +2,7 @@
   <img align="center" src="https://appgrades.io/img/dash.png" alt="Appgrades" title="Appgrades">
 </p>
 
-[![CocoaPods Compatible](https://cocoapod-badges.herokuapp.com/v/Appgrades/1.1.0/badge.png)](https://cocoadocs.org/docsets/Appgrades)
+[![CocoaPods Compatible](https://cocoapod-badges.herokuapp.com/v/Appgrades/1.1.1/badge.png)](https://cocoadocs.org/docsets/Appgrades)
 [![Platform](https://cocoapod-badges.herokuapp.com/p/Appgrades/badge.png)](https://cocoadocs.org/docsets/Appgrades)
 [![Licence](https://cocoapod-badges.herokuapp.com/l/Appgrades/badge.svg)](https://dash.appgrades.io/terms)
 [![Twitter](https://img.shields.io/badge/twitter-@appgrades_io-blue.svg?style=flat)](https://twitter.com/appgrades_io)
