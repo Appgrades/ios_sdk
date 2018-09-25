@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
     s.name             = "Appgrades"
-    s.version          = "1.1.1"
+    s.version          = "1.1.2"
     s.summary          = "Easily Track & Manage your apps versions"
 
 # This description is used to generate tags and improve search results.
@@ -36,7 +36,7 @@ DESC
     s.ios.deployment_target = '9.0'
 
 
-    s.source              = { :git => "https://github.com/appgrades/ios_sdk.git", :tag => "1.1.1" }
+    s.source              = { :git => "https://github.com/appgrades/ios_sdk.git", :tag => "1.1.2" }
     s.vendored_frameworks = 'Appgrades/Appgrades.framework'
 
 end
