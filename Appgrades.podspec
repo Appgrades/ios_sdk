@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
     s.name             = "Appgrades"
-    s.version          = "1.1.5"
+    s.version          = "1.1.6"
     s.summary          = "Easily Track & Manage your apps versions"
 
 # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ DESC
 
     s.homepage         = "https://appgrades.io"
     s.screenshots      = "https://appgrades.io/img/laptop.png"
-    s.license          = { :type => 'Commercial', :text => 'Appgrades: Copyright 2018 Appgrades. All Rights Reserved. Use of this software is subject to the terms and conditions of the Appgrades Software and Services Agreement located under https://dash.appgrades.io/terms' }
+    s.license          = { :type => 'Commercial', :text => 'Appgrades: Copyright 2019 Appgrades. All Rights Reserved. Use of this software is subject to the terms and conditions of the Appgrades Software and Services Agreement located under https://dash.appgrades.io/terms' }
     s.author           = { "Appgrades" => "contact@appgrades.io" }
     s.social_media_url = 'https://twitter.com/appgrades_io'
     s.documentation_url = 'https://docs.appgrades.io'
@@ -36,7 +36,7 @@ DESC
     s.ios.deployment_target = '9.0'
 
 
-    s.source              = { :git => "https://github.com/appgrades/ios_sdk.git", :tag => "1.1.5" }
+    s.source              = { :git => "https://github.com/appgrades/ios_sdk.git", :tag => "1.1.6" }
     s.vendored_frameworks = 'Appgrades/Appgrades.framework'
 
 end
